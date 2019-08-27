@@ -1,1 +1,3 @@
-# myCat
+My cat never wanted to play with me, so I created an energetic version of him. For this project I build an ecosystem with multiplying plants, multiplying birds and a predator (my new cat). The birds are surviving by eating the plants en the predator by eating the birds. Q-learning with the ϵ-greedy algorithm as exploration function.
+
+The beauty of Q-learning is its off-policy learning method, which basically means that the agents (the birds and my cat) create and improve their own strategies for reaching their given goals. Eventually the birds were not only eating the trees, but were also learning to run away from my cat. It was something that I in the beginning of the project not expected.
